@@ -1,0 +1,353 @@
+year,stock,capture,effort
+2000,Callinectes bellicosus,9574820,1531
+2000,Carcharhinus falciformis,4350,1
+2000,Carcharhinus leucas,102020,169
+2000,Centropomus robalito,214595,1174
+2000,Gerreidae,81203,1080
+2000,Gerreidae2,533753,1343
+2000,Hoplopagrus guntheri,28156,153
+2000,Lutjanus guttatus,22764,89
+2000,Megapitaria squalida,1135315,747
+2000,Panulirus interruptus,1775762,1226
+2000,Paralabrax nebulifer,2790713,1038
+2000,Prionace glauca,88339,39
+2000,Scomberomorus sierra,1285263,849587
+2000,Scomberomorus sierra2,1042819,3115523
+2000,Sphyrna lewini,2526,6
+2000,Squatina californica,1487604,1076
+2001,Callinectes bellicosus,8587125,1368
+2001,Carcharhinus falciformis,2637.5,1
+2001,Carcharhinus leucas,128952,187
+2001,Centropomus robalito,246270,2092
+2001,Gerreidae,103138,1673
+2001,Gerreidae2,504590,1402
+2001,Hoplopagrus guntheri,47829,201
+2001,Lutjanus guttatus,42889,156
+2001,Megapitaria squalida,1037696,546
+2001,Panulirus interruptus,1477600,1241
+2001,Paralabrax nebulifer,1854014,844
+2001,Prionace glauca,88339,39
+2001,Scomberomorus sierra,1135802,443213
+2001,Scomberomorus sierra2,1197208,3098150
+2001,Sphyrna lewini,4272,33
+2001,Squatina californica,937139,993
+2002,Callinectes bellicosus,6593088,1602
+2002,Carcharhinus falciformis,925,1
+2002,Carcharhinus leucas,85201,158
+2002,Centropomus robalito,176658,1449
+2002,Gerreidae,101046,1217
+2002,Gerreidae2,366529,1530
+2002,Hoplopagrus guntheri,51425,271
+2002,Lutjanus guttatus,74299,193
+2002,Megapitaria squalida,1129549,557
+2002,Panulirus interruptus,1590677,939
+2002,Paralabrax nebulifer,2512417,859
+2002,Prionace glauca,52406,47
+2002,Scomberomorus sierra,708428,335700
+2002,Scomberomorus sierra2,959897,2873596
+2002,Sphyrna lewini,694,9
+2002,Squatina californica,476903,740
+2003,Callinectes bellicosus,4569685,1484
+2003,Carcharhinus falciformis,400,1
+2003,Carcharhinus leucas,116591,267
+2003,Centropomus robalito,237669,1771
+2003,Gerreidae,148884,1717
+2003,Gerreidae2,577905,1538
+2003,Hoplopagrus guntheri,67784,362
+2003,Lutjanus guttatus,72310,318
+2003,Megapitaria squalida,1255280,806
+2003,Panulirus interruptus,1836650,1044
+2003,Paralabrax nebulifer,2750097,1033
+2003,Prionace glauca,282734,126
+2003,Scomberomorus sierra,603324,352528
+2003,Scomberomorus sierra2,1083017,3526204
+2003,Sphyrna lewini,27357,50
+2003,Squatina californica,763500,898
+2004,Callinectes bellicosus,6099950,1989
+2004,Carcharhinus falciformis,43635,26
+2004,Carcharhinus leucas,126275,302
+2004,Centropomus robalito,307131,1858
+2004,Gerreidae,134441,1934
+2004,Gerreidae2,628583,778
+2004,Hoplopagrus guntheri,50293,341
+2004,Lutjanus guttatus,92507,374
+2004,Megapitaria squalida,1049146,551
+2004,Panulirus interruptus,1487805,1046
+2004,Paralabrax nebulifer,3246609,1264
+2004,Prionace glauca,268019,158
+2004,Scomberomorus sierra,464500,205822
+2004,Scomberomorus sierra2,785562,3326309
+2004,Sphyrna lewini,25930,111
+2004,Squatina californica,777275,1039
+2005,Callinectes bellicosus,8782170,2999
+2005,Carcharhinus falciformis,41238,40
+2005,Carcharhinus leucas,64387,277
+2005,Centropomus robalito,357483,2625
+2005,Gerreidae,81758,6147
+2005,Gerreidae2,664419,599
+2005,Hoplopagrus guntheri,58641,413
+2005,Lutjanus guttatus,78984,389
+2005,Megapitaria squalida,833080,528
+2005,Panulirus interruptus,1537049,1040
+2005,Paralabrax nebulifer,2553608,943
+2005,Prionace glauca,808696,1690
+2005,Scomberomorus sierra,436962,273878
+2005,Scomberomorus sierra2,1240560,4701260
+2005,Sphyrna lewini,37607,193
+2005,Squatina californica,721352,4999
+2006,Callinectes bellicosus,12642423,6406
+2006,Carcharhinus falciformis,9738,44
+2006,Carcharhinus leucas,107913,1117
+2006,Centropomus robalito,325886,5858
+2006,Gerreidae,61692,7897
+2006,Gerreidae2,619320,1885
+2006,Hoplopagrus guntheri,52907,866
+2006,Lutjanus guttatus,43786,739
+2006,Megapitaria squalida,1049475,1289
+2006,Panulirus interruptus,1684967,3226
+2006,Paralabrax nebulifer,1950364,1603
+2006,Prionace glauca,684234,1798
+2006,Scomberomorus sierra,464450,373394
+2006,Scomberomorus sierra2,1217705,4183398
+2006,Sphyrna lewini,19841,298
+2006,Squatina californica,577816,4540
+2007,Callinectes bellicosus,11682723,9432
+2007,Carcharhinus falciformis,6635,19
+2007,Carcharhinus leucas,90327,922
+2007,Centropomus robalito,360464,7594
+2007,Gerreidae,95063,7433
+2007,Gerreidae2,693992,3356
+2007,Hoplopagrus guntheri,80358,1418
+2007,Lutjanus guttatus,52638,1012
+2007,Megapitaria squalida,1153969,2947
+2007,Panulirus interruptus,1363971,3882
+2007,Paralabrax nebulifer,2922660,3777
+2007,Prionace glauca,1620851,3372
+2007,Scomberomorus sierra,664641,896494
+2007,Scomberomorus sierra2,1814653,4226727
+2007,Sphyrna lewini,54463,711
+2007,Squatina californica,1842808,4550
+2008,Callinectes bellicosus,16211850,11311
+2008,Carcharhinus falciformis,21583,170
+2008,Carcharhinus leucas,144103,2885
+2008,Centropomus robalito,371912,10256
+2008,Gerreidae,144368,16333
+2008,Gerreidae2,760176,2900
+2008,Hoplopagrus guntheri,74898,2061
+2008,Lutjanus guttatus,37166,1079
+2008,Megapitaria squalida,937308,2424
+2008,Panulirus interruptus,1793315,2926
+2008,Paralabrax nebulifer,2667182,3555
+2008,Prionace glauca,3180898,5322
+2008,Scomberomorus sierra,793549,1669405
+2008,Scomberomorus sierra2,2308650,3597855
+2008,Sphyrna lewini,108555,921
+2008,Squatina californica,791245,4686
+2009,Callinectes bellicosus,9451765,11869
+2009,Carcharhinus falciformis,14925,42
+2009,Carcharhinus leucas,188969,3824
+2009,Centropomus robalito,414215,8716
+2009,Gerreidae,167920,19528
+2009,Gerreidae2,801574,2997
+2009,Hoplopagrus guntheri,90540,2113
+2009,Lutjanus guttatus,55535,1078
+2009,Megapitaria squalida,1362648,3154
+2009,Panulirus interruptus,1643958,3205
+2009,Paralabrax nebulifer,3248375,3558
+2009,Prionace glauca,2987578,5855
+2009,Scomberomorus sierra,829625,1933164
+2009,Scomberomorus sierra2,2819629,3926137
+2009,Sphyrna lewini,201894,1306
+2009,Squatina californica,660398,4072
+2010,Callinectes bellicosus,6772470,20602
+2010,Carcharhinus falciformis,38460,125
+2010,Carcharhinus leucas,218741,4137
+2010,Centropomus robalito,422364,9159
+2010,Gerreidae,89168,17901
+2010,Gerreidae2,823205,2435
+2010,Hoplopagrus guntheri,96000,2664
+2010,Lutjanus guttatus,63533,1427
+2010,Megapitaria squalida,1030688,2332
+2010,Panulirus interruptus,1541150,3485
+2010,Paralabrax nebulifer,3071749,3667
+2010,Prionace glauca,2883934,6216
+2010,Scomberomorus sierra,925117,2499049
+2010,Scomberomorus sierra2,3134408,4670414
+2010,Sphyrna lewini,149145,1243
+2010,Squatina californica,547752,4447
+2011,Callinectes bellicosus,10289631,13952
+2011,Carcharhinus falciformis,30212,105
+2011,Carcharhinus leucas,286429,3931
+2011,Centropomus robalito,359956,8232
+2011,Gerreidae,129579,20035
+2011,Gerreidae2,1037328,2619
+2011,Hoplopagrus guntheri,82481,2522
+2011,Lutjanus guttatus,54426,1258
+2011,Megapitaria squalida,1130436,2507
+2011,Panulirus interruptus,2267139,3945
+2011,Paralabrax nebulifer,3739631,3681
+2011,Prionace glauca,3579503,6155
+2011,Scomberomorus sierra,793763,2253100
+2011,Scomberomorus sierra2,3004601,4570273
+2011,Sphyrna lewini,89620,897
+2011,Squatina californica,782175,4959
+2012,Callinectes bellicosus,11718504,17804
+2012,Carcharhinus falciformis,61994,76
+2012,Carcharhinus leucas,300381,7730
+2012,Centropomus robalito,492366,11936
+2012,Gerreidae,105748,23761
+2012,Gerreidae2,1222827,2429
+2012,Hoplopagrus guntheri,86053,2791
+2012,Lutjanus guttatus,42028,1112
+2012,Megapitaria squalida,997705,2303
+2012,Panulirus interruptus,2105004,3967
+2012,Paralabrax nebulifer,4351041,4328
+2012,Prionace glauca,3857351,5601
+2012,Scomberomorus sierra,1152669,3088449
+2012,Scomberomorus sierra2,3652966,2654005
+2012,Sphyrna lewini,94875,1118
+2012,Squatina californica,734999,5027
+2013,Callinectes bellicosus,12043775,18305
+2013,Carcharhinus falciformis,74143,106
+2013,Carcharhinus leucas,286239,6482
+2013,Centropomus robalito,576344,12272
+2013,Gerreidae,94421,20981
+2013,Gerreidae2,972513,2284
+2013,Hoplopagrus guntheri,100469,3718
+2013,Lutjanus guttatus,37334,1068
+2013,Megapitaria squalida,1289112,2533
+2013,Panulirus interruptus,1836340,3888
+2013,Paralabrax nebulifer,3572043,4155
+2013,Prionace glauca,3351631,5019
+2013,Scomberomorus sierra,1096746,2386259
+2013,Scomberomorus sierra2,2859928,3792996
+2013,Sphyrna lewini,165361,1569
+2013,Squatina californica,779862,4034
+2014,Callinectes bellicosus,12986381,21184
+2014,Carcharhinus falciformis,57508,305
+2014,Carcharhinus leucas,328292,5768
+2014,Centropomus robalito,686070,12564
+2014,Gerreidae,34665,16698
+2014,Gerreidae2,965316,1280
+2014,Hoplopagrus guntheri,115125,3616
+2014,Lutjanus guttatus,49993,1069
+2014,Megapitaria squalida,1174207,2313
+2014,Panulirus interruptus,1938971,4144
+2014,Paralabrax nebulifer,3199510,3454
+2014,Prionace glauca,3769463,7712
+2014,Scomberomorus sierra,879655,1527877
+2014,Scomberomorus sierra2,2368886,3926874
+2014,Sphyrna lewini,564565,4580
+2014,Squatina californica,737118,3673
+2015,Callinectes bellicosus,13111880,24570
+2015,Carcharhinus falciformis,40004,439
+2015,Carcharhinus leucas,701287,6921
+2015,Centropomus robalito,652824,15122
+2015,Gerreidae,76007,18788
+2015,Gerreidae2,1146889,2443
+2015,Hoplopagrus guntheri,135072,3575
+2015,Lutjanus guttatus,88824,1450
+2015,Megapitaria squalida,1259770,2874
+2015,Panulirus interruptus,1571749,4866
+2015,Paralabrax nebulifer,2322280,3622
+2015,Prionace glauca,3693069,7068
+2015,Scomberomorus sierra,1094205,1719368
+2015,Scomberomorus sierra2,2661031,3286611
+2015,Sphyrna lewini,1329467,6050
+2015,Squatina californica,719067,4115
+2016,Callinectes bellicosus,14066949,25020
+2016,Carcharhinus falciformis,174661,432
+2016,Carcharhinus leucas,1263893,7941
+2016,Centropomus robalito,1036748,18126
+2016,Gerreidae,60833,147552
+2016,Gerreidae2,1413235,2405
+2016,Hoplopagrus guntheri,160717,3942
+2016,Lutjanus guttatus,169442,2262
+2016,Megapitaria squalida,1060904,2401
+2016,Panulirus interruptus,1289473,5187
+2016,Paralabrax nebulifer,2331114,3689
+2016,Prionace glauca,3591370,6841
+2016,Scomberomorus sierra,1357680,2121639
+2016,Scomberomorus sierra2,2826571,3879602
+2016,Sphyrna lewini,3811652,6343
+2016,Squatina californica,657782,4755
+2017,Callinectes bellicosus,17363701,29277
+2017,Carcharhinus falciformis,2296089,1139
+2017,Carcharhinus leucas,806079,7742
+2017,Centropomus robalito,1106540,18587
+2017,Gerreidae,86984,21408
+2017,Gerreidae2,1517458,3940
+2017,Hoplopagrus guntheri,195050,4276
+2017,Lutjanus guttatus,545257,3569
+2017,Megapitaria squalida,788072,1662
+2017,Panulirus interruptus,1850425,5314
+2017,Paralabrax nebulifer,2468437,3521
+2017,Prionace glauca,3068018,6414
+2017,Scomberomorus sierra,2800316,3934737
+2017,Scomberomorus sierra2,4852846,4044312
+2017,Sphyrna lewini,3033797,5436
+2017,Squatina californica,766567,4359
+2018,Callinectes bellicosus,19012074,29111
+2018,Carcharhinus falciformis,2315614,1391
+2018,Carcharhinus leucas,852155,8302
+2018,Centropomus robalito,1185361,17785
+2018,Gerreidae,97715,21045
+2018,Gerreidae2,1453452,3190
+2018,Hoplopagrus guntheri,183661,3988
+2018,Lutjanus guttatus,485865,4115
+2018,Megapitaria squalida,671398,1441
+2018,Panulirus interruptus,1903687,4483
+2018,Paralabrax nebulifer,3566281,3671
+2018,Prionace glauca,2580414,5370
+2018,Scomberomorus sierra,3646228,1870799
+2018,Scomberomorus sierra2,3037877,3404310
+2018,Sphyrna lewini,849870,3807
+2018,Squatina californica,964177,4730
+2019,Callinectes bellicosus,20554178,33832
+2019,Carcharhinus falciformis,1180404,1273
+2019,Carcharhinus leucas,708986,11136
+2019,Centropomus robalito,1091724,20088
+2019,Gerreidae,90641,22481
+2019,Gerreidae2,1449847,2147
+2019,Hoplopagrus guntheri,148607,3487
+2019,Lutjanus guttatus,402139,2834
+2019,Megapitaria squalida,825798,1853
+2019,Panulirus interruptus,2075953,6613
+2019,Paralabrax nebulifer,3811085,5461
+2019,Prionace glauca,3482794,6149
+2019,Scomberomorus sierra,3957646,2444141
+2019,Scomberomorus sierra2,3290773,3757542
+2019,Sphyrna lewini,914663,4310
+2019,Squatina californica,1009423,4081
+2020,Callinectes bellicosus,18818053,30329
+2020,Carcharhinus falciformis,3641048,2608
+2020,Carcharhinus leucas,623510,7170
+2020,Centropomus robalito,845928,13119
+2020,Gerreidae,146881,15533
+2020,Gerreidae2,1100812,1825
+2020,Hoplopagrus guntheri,121300,3702
+2020,Lutjanus guttatus,212987,4320
+2020,Megapitaria squalida,612876,2099
+2020,Panulirus interruptus,1856692,5393
+2020,Paralabrax nebulifer,3120637,3900
+2020,Prionace glauca,3304472,5535
+2020,Scomberomorus sierra,3082609,2333483
+2020,Scomberomorus sierra2,3755383,4388810
+2020,Sphyrna lewini,868579,4558
+2020,Squatina californica,733439,4059
+2021,Callinectes bellicosus,20502283,29256
+2021,Carcharhinus falciformis,4008801,1483
+2021,Carcharhinus leucas,574735,6862
+2021,Centropomus robalito,996327,13900
+2021,Gerreidae,89559,15148
+2021,Gerreidae2,1497759,2362
+2021,Hoplopagrus guntheri,126860,2666
+2021,Lutjanus guttatus,155080,2963
+2021,Megapitaria squalida,580506,1631
+2021,Panulirus interruptus,1893635,5341
+2021,Paralabrax nebulifer,3064522,4460
+2021,Prionace glauca,3389294,5130
+2021,Scomberomorus sierra,2857031,2355845
+2021,Scomberomorus sierra2,4145789,5842002
+2021,Sphyrna lewini,1027675,3121
+2021,Squatina californica,830742,4571
